@@ -1,0 +1,16 @@
+{
+  "name": "gtarp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bcsa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "moment": "^2.29.4"
+  }
+}
