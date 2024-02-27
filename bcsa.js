@@ -88,4 +88,4 @@ client.on('messageCreate', async (message) => {
 });
 
 
-client.login('MTE3ODY4MTYyNDA3OTExODM4Ng.GU7Ls0.cBf4dq_dCC0DdnIhM7ffkTD2bmnqrODgeqb3nA');
+client.login('clée ici');
